@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '40608'
     url: http://www.gutenberg.org/2009/agents/40608
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44746#Household-stories-from-the-Land-of-Hoferor-Popular-Myths-of-Tirol
 gutenberg_issued: '2014-01-24'
 gutenberg_type: Text
 identifiers:
